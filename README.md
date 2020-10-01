@@ -14,3 +14,8 @@ the bulk of the work is done by the
 go(filename) function so it is easily
 available to other programs, rather than
 being necessarily stand-alone.
+
+
+Source for 'text.txt' (Gettysburg address): https://rmc.library.cornell.edu/gettysburg/good_cause/transcript.htm#:~:text=%22Fourscore%20and%20seven%20years%20ago,so%20dedicated%2C%20can%20long%20endure.
+
+Source for 'text2.txt' (The Iliad): http://www.gutenberg.org/files/2199/2199-h/2199-h.htm
